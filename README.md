@@ -19,7 +19,7 @@
 ## DOCENTE
 
 - Docente: Eric Gustavo Coronel Castillo
-- Blog: gcoronelc.blogspot.com
+- Blog: http://gcoronelc.blogspot.com
 
 
 ## RECURSOS DEL CURSO
