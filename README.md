@@ -41,7 +41,7 @@
 
 - http://gcoronelc.blogspot.pe/2016/11/programando-pensando-en-servicios-parte.html
 - http://gcoronelc.blogspot.pe/2016/11/prog-pensando-en-servicios-parte-2.html
-
+- https://youtu.be/PrDBpY4hnN0
 
 ## ARQUITECTURA DE SOFTWARE
 
