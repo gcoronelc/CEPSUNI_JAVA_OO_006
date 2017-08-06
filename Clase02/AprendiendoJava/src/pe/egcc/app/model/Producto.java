@@ -13,6 +13,22 @@ public class Producto {
   private int stock;
   private boolean activo;
 
+  public Producto() {
+
+    this.nombre = "Camioneta 4x4";
+    this.precio = 50000.0;
+    this.stock = 60;
+    this.activo = true;
+    
+    System.out.println("Producto creado.");
+    
+  }
+
+  @Override
+  protected void finalize() throws Throwable {
+    System.err.println("Chau producto .......");
+  }
+    
   public String getNombre() {
     return nombre;
   }

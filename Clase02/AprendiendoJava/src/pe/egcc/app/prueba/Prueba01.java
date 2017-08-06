@@ -2,7 +2,6 @@ package pe.egcc.app.prueba;
 
 import pe.egcc.app.model.Producto;
 
-
 /**
  *
  * @author Gustavo Coronel
@@ -14,7 +13,7 @@ public class Prueba01 {
   public static void main(String[] args) {
     
     Producto bean = new Producto();
-    
+
     mostrar(bean);
     
     bean.setNombre("Refrigeradora");

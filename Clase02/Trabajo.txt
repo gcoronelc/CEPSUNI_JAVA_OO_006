@@ -1,0 +1,8 @@
+Desarrollar un programa en Java
+para calcular el promedio de un
+estudiante, son:
+- 4 Practicas, se elimina la menor
+- 1 Examen parcial
+- 1 Examen final
+Se aprueba si el promedio final
+es mayor o igual a 14.
