@@ -1,0 +1,4 @@
+1.- Completar el proyecto Promedio.
+
+2.- Proyecto Libre.
+    Aplicar Paneles, MVC, Sobrecarga, etc.
